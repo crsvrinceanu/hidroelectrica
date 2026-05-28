@@ -6,9 +6,9 @@
   ],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/cnecrea/hidroelectrica",
+  "documentation": "https://github.com/crsvrinceanu/hidroelectrica",
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/cnecrea/hidroelectrica/issues",
+  "issue_tracker": "https://github.com/crsvrinceanu/hidroelectrica/issues",
   "requirements": [],
-  "version": "3.8.4-open-local"
+  "version": "3.8.5"
 }
